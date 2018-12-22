@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/microproject.iml" filepath="$PROJECT_DIR$/.idea/microproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka-provider1/eureka-provider1.iml" filepath="$PROJECT_DIR$/micro-eureka-provider1/eureka-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka-service1/eureka-service1.iml" filepath="$PROJECT_DIR$/micro-eureka-service1/eureka-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-zookeeper/micro-zookeeper.iml" filepath="$PROJECT_DIR$/micro-zookeeper/micro-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-zookeeper/micro-zookeeper-client.iml" filepath="$PROJECT_DIR$/micro-zookeeper/micro-zookeeper-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-examples.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka-feign/spring-study.iml" filepath="$PROJECT_DIR$/micro-eureka-feign/spring-study.iml" />
     </modules>
   </component>
 </project>
